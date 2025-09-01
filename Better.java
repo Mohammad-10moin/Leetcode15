@@ -26,3 +26,5 @@ public class Better {
         return ans;
     }
 }
+
+// THis is better solution as the brute force solution is simple 3 for loops 
